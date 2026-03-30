@@ -213,6 +213,6 @@ These projects were developed as coursework for an advanced **Data Mining & Mach
 
 Complete assignment PDFs are included in the `assignments/` folder:
 - [`assignments/Es1e2.pdf`](assignments/Es1e2.pdf) - Exercises 1 & 2
-- [`assignments/Exercise 3.pdf`](assignments/Exercise 3.pdf) - Exercise 3
+- [`assignments/Exercise 3.pdf`](assignments/Exercise%203.pdf) - Exercise 3
 - [`assignments/Exercise 4 (updated 19 Dec 2024).pdf`](assignments/Exercise%204%20(updated%2019%20Dec%202024).pdf) - Exercise 4
 
