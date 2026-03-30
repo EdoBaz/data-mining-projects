@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+joblib
+scikit-learn
+numba
+tabulate
+nonconformist
+aalpy
+networkx
+pydot
+pm4py
+ipython
+jupyter
