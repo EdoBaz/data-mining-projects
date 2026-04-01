@@ -12,6 +12,8 @@ A comprehensive collection of **4 advanced data mining projects** implementing s
 - Simone Xiao
 - Edoardo Bazzotti
 
+---
+
 ## 📋 Projects Overview
 
 ### 🔍 **Exercise 1: Quantitative Association Rules Mining**  
